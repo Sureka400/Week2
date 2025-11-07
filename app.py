@@ -24,4 +24,4 @@ if uploaded_file is not None:
     if pred > 0.5:
         st.success("♻ Predicted: Recyclable Waste")
     else:
-        st.warning("🍎 Predicted: Organic Waste"
+        st.warning("🍎 Predicted: Organic Waste")
